@@ -1,0 +1,2 @@
+# girin
+universal shell language

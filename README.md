@@ -1,2 +1,1 @@
-# girin
-universal shell language
+TBA
